@@ -1,0 +1,5 @@
+./dir2html
+git status
+git add .
+git commit -m "add new"
+git push
